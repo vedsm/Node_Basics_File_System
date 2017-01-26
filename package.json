@@ -1,0 +1,7 @@
+{
+  "name": "file_monitoring",
+  "main": "app.js",
+  "dependencies": {
+    "fs": "0.0.1-security"
+  }
+}
